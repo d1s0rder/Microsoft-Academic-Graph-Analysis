@@ -1,2 +1,2 @@
 # Microsoft-Academic-Graph-Analysis
-Graph based analysis based on Microsoft Academic data
+This is a research project on Microsoft Academic data done by a team led by Dr. Junpei Komiyama.
