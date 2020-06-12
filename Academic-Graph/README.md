@@ -3,3 +3,4 @@ Refer https://github.com/vahuynh/dynGENIE3/tree/master/dynGENIE3_python for DynG
 
 The code in CS_Conference,ipynb is inheritated from Hajime Shimao's code.
 Refer https://github.com/shimaohajime/JournalNetwork for detail.
+
